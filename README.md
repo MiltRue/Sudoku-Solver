@@ -13,7 +13,7 @@ Purpose: Allows the user to play sudoku or to see the recursive backtracking sol
 <img src = "./readMe_images/ComputerSolve.png"/>
 <br>
 
-Important Keys:
+# Important Keys:
 
 Escape - Exit
 

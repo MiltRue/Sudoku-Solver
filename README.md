@@ -15,8 +15,10 @@ Purpose: Allows the user to play sudoku or to see the recursive backtracking sol
 
 # Important Keys:
 
-Escape - Exit
+- Escape - Exit
+- Shift - Annotation mode
+- Enter - Computer Solve
 
-Shift - Annotation mode
-
-Enter - Computer Solve
+# What I Learned:
+- GUI creation
+- Implementing recursive backtracking
